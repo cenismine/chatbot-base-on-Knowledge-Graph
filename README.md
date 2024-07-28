@@ -103,7 +103,7 @@ ahocorasick    （安装方法 pip install pyahocorasick）
 
 + 项目运行方式
 
-1. 搭建知识图谱：python build_grapy.py。大概几个小时，耐心等待。 
+1. 搭建知识图谱：python build_medicalgraph.py。大概几个小时，耐心等待。 
 2. 启动问答系统：python chatbot_graph.py  
 
 + 项目主要文件目录结构
